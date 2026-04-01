@@ -10,7 +10,7 @@
         네, 아래와 같이 3가지 결과물 모두 확인했습니다.
         ![](codereview/아웃포커싱_인물사진.png)
         ![](codereview/아웃포커싱_동물사진.png)
-        ![](codereview/배경전환크로마.png)
+        ![](codereview/배경전환크로마키.png)
     
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -50,8 +50,8 @@
 # 리뷰어의 회고를 작성합니다.
 # 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
 # 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
+```
 저는 문제점에서 원인을 해결하기 위해 여러 기술들을 알아보았지만 코드가 복잡해져서인지, lms환경이 아예 다운되는 문제가 생겨서 코드 실행을 못해봤었는데.
 주열님은 간단하게 더 발전시킬 수 있는 항목들을 찾아 적용하신 부분들, 특히나 종횡비 조정같은 부분들이 인상 깊었습니다.
 - 참고 링크는 PyTorch에서 제공하는 Deeplabv3모델의 최신 가중치에 관한 문서입니다.
-    [DeepLabV3_ResNet101_Weights](https://docs.pytorch.org/vision/0.26/models/generated/torchvision.models.segmentation.deeplabv3_resnet101.html#:~:text=deeplabv3_resnet101.%20torchvision.models.segmentation.deeplabv3_resnet101(*%2C%20weights:%20Optional%5BDeepLabV3_ResNet101_Weights%5D%20=%20None%2C%20progress:%20bool%20=%20True%2C)
-```
+[DeepLabV3_ResNet101_Weights](https://docs.pytorch.org/vision/0.26/models/generated/torchvision.models.segmentation.deeplabv3_resnet101.html#:~:text=deeplabv3_resnet101.%20torchvision.models.segmentation.deeplabv3_resnet101(*%2C%20weights:%20Optional%5BDeepLabV3_ResNet101_Weights%5D%20=%20None%2C%20progress:%20bool%20=%20True%2C)
