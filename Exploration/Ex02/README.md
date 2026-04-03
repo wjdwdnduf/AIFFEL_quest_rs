@@ -18,6 +18,7 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+    
         - <img width="617" height="486" alt="image" src="https://github.com/user-attachments/assets/56919410-7659-4a5c-8aba-75cccfe07863" />
 
 
@@ -38,6 +39,8 @@
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+     
+        - 결과를 보고 분석까지 잘 정리했다고 생각합니다
         - <img width="626" height="180" alt="image" src="https://github.com/user-attachments/assets/4cae8cf6-76b2-457c-949a-d0dc71bfa76d" />
 
         
@@ -45,6 +48,8 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+     
+        - 보는데 깔끔하다고 생각했다. 간결하고 충분히 효율적이라고 생각했다.
         - <img width="587" height="415" alt="image" src="https://github.com/user-attachments/assets/ac04f6ed-5d46-4a4b-9252-be429030f5ba" />
 
 
