@@ -41,6 +41,7 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
      
         - 결과를 보고 분석까지 잘 정리했다고 생각합니다
+        - 논문을 기반으로 해서 정리된 느낌이 들었습니다
         - <img width="626" height="180" alt="image" src="https://github.com/user-attachments/assets/4cae8cf6-76b2-457c-949a-d0dc71bfa76d" />
 
         
