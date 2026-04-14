@@ -24,7 +24,7 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        - <img width="868" height="1138" alt="image" src="https://github.com/user-attachments/assets/16faec58-68a5-4ec6-a5e4-109fffcca7a4" />
+        - <img width="531" height="212" alt="image" src="https://github.com/user-attachments/assets/16035207-b8de-46a3-8879-b8613a0116b8" />
 
 
 
